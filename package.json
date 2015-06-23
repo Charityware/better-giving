@@ -1,0 +1,11 @@
+{
+  	"name": "Give",
+  	"version": "0.1.0",
+  	"description": "The Charityware Blog",
+  	"url": "blog.charityware.co",
+  	"author": {
+	    "name": "Charityware",
+	    "email": "hello@charityware.co",
+	    "url": "http://charityware.co"
+	}
+}
